@@ -1,0 +1,44 @@
+.tagline{
+    font-style: italic;
+    color: blueviolet;
+}
+
+img{
+    float: right;
+    width: 250px;
+}
+
+.table-title{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 150px;
+}
+
+table{
+    border: 2px solid black;
+    width: 100%;
+    padding: 15px;
+}
+
+td,th{
+    text-align: left;
+    padding: 15px;
+}
+
+footer{
+    background-color: orange;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding:6px;
+    position: fixed;
+    color: black;
+    bottom: 0;
+    left:0;
+    width: 100%;
+}
+
+body{
+    background-color: #e6f3ff;
+    padding: 8%;
+}
